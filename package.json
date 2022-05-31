@@ -2,7 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Jane Doe",
   "description": "A project that does something awesome",
-  "keywords": [ "learnjs", "programming", "careervio" ],
+  "keywords": [
+    "learnjs",
+    "programming",
+    "careervio"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -14,5 +18,5 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "license": "MIT",
+  "license": "MIT"
 }
